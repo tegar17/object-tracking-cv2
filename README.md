@@ -52,5 +52,6 @@ I began by loading video or image sequences and applying tracking algorithms. Th
 ---
 
 ## 🖥️ Preview
-https://github.com/user-attachments/assets/45ce6904-ed29-4568-bfdc-2671daabdafe
+https://github.com/user-attachments/assets/8ddf5536-4f52-4cf6-816a-51914af3a5ae
+
 
